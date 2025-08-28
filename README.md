@@ -1,5 +1,5 @@
 # Health-Insurance-Cross-Sell-EDA-and-Machine-Learning-Modeling
-This is a  note book of exploratory data analysis on cross selling of health insurance customers on  vehicle insurance product  and using machine learning to predict whether a customer is interested or not in vehicle insurancen
+This project consists of two Jupyter notebooks: the first focuses on exploratory data analysis (EDA) of cross-selling vehicle insurance to health insurance customers, and the second applies machine learning to predict whether a customer is interested in purchasing vehicle insurance.
 
 
 
