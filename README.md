@@ -1,4 +1,4 @@
-# Health-Insurance-Cross-Sell-EDA-and-Machine-Learning-Modeling
+# Insurance-Data-Analysis
 This project consists of two Jupyter notebooks: the first focuses on exploratory data analysis (EDA) of cross-selling vehicle insurance to health insurance customers, and the second applies machine learning to predict whether a customer is interested in purchasing vehicle insurance.
 
 
