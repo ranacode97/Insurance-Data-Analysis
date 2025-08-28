@@ -5,12 +5,12 @@ This project consists of two Jupyter notebooks: the first focuses on exploratory
 
 ## Background Information :
 
-- an Insurance company that provide Health Insurance to its customers, usually they offer other insurance product to the customers through diffirent kind of marketing channel. In this case we will build a model to predict   whether the policyholders (customers) from past year will also be interested in Vehicle Insurance provided by the company.
-
+- An insurance company provides health insurance to its customers and also promotes other insurance products through different marketing channels.
+In this project, we aim to predict whether health insurance policyholders are likely to purchase vehicle insurance offered by the company.
 
 ## Problem Statement:
 
-- Un optimize customer reachout process, many insurance worker spend a lot of their time having meeting with prospective client without knowing the probabily of that customer to buy the insurance product
+- Currently, the customer outreach process is not optimized. Insurance agents spend a significant amount of time meeting potential clients without knowing the probability of a customer purchasing vehicle insurance. This results in wasted effort and lower efficiency.
 
 
 ## Business Goals:
